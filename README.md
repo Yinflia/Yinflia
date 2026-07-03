@@ -9,7 +9,7 @@
   <br><br>
   <a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Premium-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/nabilafalia"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nabilafalih24@gmial.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nabilafalih24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yinflia"><img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br><br>
 </div>
