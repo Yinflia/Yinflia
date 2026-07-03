@@ -17,6 +17,27 @@
 
 ## 🪐 About Me
 
+Hi! I'm **Nabila Falih Amalia**, an **Informatics Engineering student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for software development, artificial intelligence, and creative digital technologies.
+
+I enjoy turning ideas into practical solutions through programming while continuously expanding my knowledge of modern technologies. Besides coding, I love exploring UI/UX design and video editing.
+
+### 🌱 Currently Learning
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+
+### 💻 Tech Interests
+- Web Development
+- Artificial Intelligence
+- UI/UX Design
+- Software Engineering
+
+### 🎯 Goals
+- Build impactful software that solves real-world problems.
+- Continuously improve my programming and problem-solving skills.
+- Become a skilled Full Stack Software Engineer.
+
+> *"Keep learning, keep building, and let curiosity lead the way."*
 
 ---
 
