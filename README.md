@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Infrastructure+Architect;Full+Stack+Product+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Engineer" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -58,15 +58,15 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?yinflia=github-premium-profile-placeholder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Yinflia&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="200" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?yinflia=github-premium-profile-placeholder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinflia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-premium-profile-placeholder&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yinflia&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
       </td>
     </tr>
   </table>
@@ -77,7 +77,7 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?yinflia=github-premium-profile-placeholder&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yinflia&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
 ## 📅 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?yinflia=github-premium-profile-placeholder&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yinflia&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -93,7 +93,5 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github-premium-profile-placeholder/github-premium-profile-placeholder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Yinflia/Yinflia/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
-
----
