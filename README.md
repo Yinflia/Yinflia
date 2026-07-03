@@ -17,7 +17,6 @@
 
 ## 🪐 About Me
 
-An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 8+ years of experience designing high-throughput distributed systems and productionizing large-scale machine learning models. Bridging the gap between cutting-edge AI research and robust full-stack product engineering. Passionate about performance optimization, developer tooling, and building cloud-native applications that scale gracefully to millions of active users.
 
 ---
 
@@ -43,21 +42,7 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yinflia&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="200" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinflia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yinflia&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yinflia&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
 </div>
 
 ---
