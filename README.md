@@ -40,18 +40,6 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
 
 ---
 
-## 📊 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Elite_Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Master_Contributor-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <br>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-5_Stars-1BA345?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-6_Star_Competitive_Coder-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -70,14 +58,6 @@ An enterprise-focused Software Engineer and AI/ML Infrastructure Architect with 
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yinflia&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
