@@ -50,12 +50,12 @@ I enjoy turning ideas into practical solutions through programming while continu
 
 ### 🎨 Frontend
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend" /></a>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Backend & Databases" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend & Databases" /></a>
 </p>
 
 ---
