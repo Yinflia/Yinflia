@@ -18,7 +18,7 @@
 
 ## 🪐 About Me
 
-Hi! I'm **Nabila Falih Amalia**, an **Informatics Engineering student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for software development, artificial intelligence, and creative digital technologies.
+Hi! I'm **Nabila Falih Amalia**, an **Informatics Student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for software development, artificial intelligence, and creative digital technologies.
 
 I enjoy turning ideas into practical solutions through programming while continuously expanding my knowledge of modern technologies. Besides coding, I love exploring UI/UX design and video editing.
 
