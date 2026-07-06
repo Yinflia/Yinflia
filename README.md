@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Degree-Informatics%20Student-7C3AED?style=flat-square&logo=academia" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/University-UPN%20Veteran%20Jawa%20Timur-7C3AED?style=flat-square&logo=academia" alt="University Badge" />
-  <img src="https://img.shields.io/badge/Location-Indonesian-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
   <br><br>
   <a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Premium-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/nabilafalia"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
