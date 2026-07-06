@@ -70,14 +70,12 @@ Hi! I'm **Nabila Falih Amalia**, an **Informatics Student at UPN "Veteran" East 
 
 ## 📅 Contribution Activity
 
+### 📊 Graph 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yinflia&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
+### 🐍 Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yinflia/Yinflia/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
