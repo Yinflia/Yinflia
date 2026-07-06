@@ -18,25 +18,24 @@
 
 ## 🪐 About Me
 
-Hi! I'm **Nabila Falih Amalia**, an **Informatics Student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for software development, artificial intelligence, and creative digital technologies.
+Hi! I'm **Nabila Falih Amalia**, an **Informatics Student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for Full Stack Web Development, Artificial Intelligence (AI Chatbot), and Creative Digital Technologies.
 
-I enjoy turning ideas into practical solutions through programming while continuously expanding my knowledge of modern technologies. Besides coding, I love exploring UI/UX design and video editing.
+​I enjoy turning ideas into practical solutions through programming, specifically focusing on building intelligent chatbots integrated seamlessly into full stack web applications. Alongside frontend and backend development, I love exploring UI/UX design and video editing to ensure human-AI interactions are intuitive and visually engaging.
 
 ### 🌱 Currently Learning
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
+- AI Chatbot Development & LLM Orchestration (LangChain/LlamaIndex)
+- Full Stack Web Development (React, Node.js, Next.js)
 - Data Structures & Algorithms
 
 ### 💻 Tech Interests
-- Web Development
-- Artificial Intelligence
-- UI/UX Design
-- Software Engineering
+- Full Stack Web Integration
+- Artificial Intelligence & Chatbot Engineering
+- ​Conversational UI/UX Design
 
 ### 🎯 Goals
-- Build impactful software that solves real-world problems.
-- Continuously improve my programming and problem-solving skills.
-- Become a skilled Full Stack Software Engineer.
+- Build impactful full stack applications and AI chatbots that solve real-world problems.
+- ​Continuously elevate my programming and AI engineering skills.
+- ​Become a skilled Full Stack AI / Conversational AI Engineer.
 
 > *"Keep learning, keep building, and let curiosity lead the way."*
 
