@@ -16,13 +16,13 @@
 
 ---
 
-## 🪐 About Me
+## 🧕🏻 About Me
 
 Hi! I'm **Nabila Falih Amalia**, an **Informatics Student at UPN "Veteran" East Java (UPNVJT), Indonesia**, with a passion for Full Stack Web Development, Artificial Intelligence (AI Chatbot), and Creative Digital Technologies.
 
 ​I enjoy turning ideas into practical solutions through programming, specifically focusing on building intelligent chatbots integrated seamlessly into full stack web applications. Alongside frontend and backend development, I love exploring UI/UX design and video editing to ensure human-AI interactions are intuitive and visually engaging.
 
-### 🌱 Currently Learning
+### 💡 Currently Learning
 - AI Chatbot Development & LLM Orchestration (LangChain/LlamaIndex)
 - Full Stack Web Development (React, Node.js, Next.js)
 - Data Structures & Algorithms
